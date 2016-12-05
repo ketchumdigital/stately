@@ -31,7 +31,7 @@ abbr, acronym {
 
 /*end reset*/
 body {
-  width: 300px;
+  width: 100%;
   margin: 0 auto;
   font-family: "helvetica neue",arial,sans-serif;
   -webkit-font-smoothing: antialiased;
